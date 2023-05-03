@@ -23,8 +23,8 @@ BANNER = r'''
 
                Coded by Hazem Elsayed
                GitHub Link : https://github.com/zoma0x00/crtFinder
-                LinkedIn:https://www.linkedin.com/in/zoma0x00
-                YouTube:https://www.youtube.com/zoma0x00
+               LinkedIn:https://www.linkedin.com/in/zoma0x00
+               YouTube:https://www.youtube.com/zoma0x00
 '''
 print ("/n Coded by Hazem Elsayed ")
 
@@ -53,6 +53,7 @@ def get_subdomains_crtsh(domain):
 
     subdomains.update(extract_subdomains(response.text, domain))
     return subdomains
+  #not for this tool (:
 '''
 # Function to get subdomains from buffered.io
 # Function to get subdomains from buffered.io
@@ -106,7 +107,7 @@ def main(domain, output_file):
 
 # The entry point of the script
 if __name__ == "__main__":
-    print(Fore.RED + BANNER)
+    print(Fore.CYAN + BANNER)
 
     # Define command-line argument parser
     parser = argparse.ArgumentParser(description=Fore.YELLOW + Style.BRIGHT + "Find subdomains of a domain.")
