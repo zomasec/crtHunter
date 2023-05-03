@@ -1,4 +1,4 @@
-# crtFinder V1.0
+# crtHunter.py V1.1
 
 A Python script to extract subdomains for a given domain using the crt.sh website. This script utilizes `requests`, `BeautifulSoup`, `argparse`, and `colorama` libraries to fetch and parse the data and provide a user-friendly command-line interface with colored output.
 
@@ -22,7 +22,7 @@ pip install requests beautifulsoup4 colorama
 To use the script, run the following command in your terminal:
 
 ```bash
-python crtFinder.py -d DOMAIN [-o OUTPUT_FILE]
+python crtHunter.py -d DOMAIN [-o OUTPUT_FILE]
 ```
 
 - Replace `DOMAIN` with the domain you want to search for subdomains.
@@ -32,7 +32,7 @@ python crtFinder.py -d DOMAIN [-o OUTPUT_FILE]
 
 ```bash
 
-python crtFinder.py -d example.com -o subdomains.txt
+python crtHunter.py -d example.com -o subdomains.txt
 
 ```
 
