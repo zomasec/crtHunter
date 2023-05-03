@@ -22,7 +22,7 @@ pip install requests beautifulsoup4 colorama
 To use the script, run the following command in your terminal:
 
 ```bash
-python crt.py -d DOMAIN [-o OUTPUT_FILE]
+python crtFinder.py -d DOMAIN [-o OUTPUT_FILE]
 ```
 
 - Replace `DOMAIN` with the domain you want to search for subdomains.
