@@ -15,27 +15,21 @@ BANNER = r'''
 
 
 
+             _   _   _             _
 
-                            d8     888 888                     d8
- e88'888 888,8,  d88     888 888 8888 8888 888 8e   d88    ,e e,  888,8,
-d888  '8 888 "  d88888   8888888 8888 8888 888 88b d88888 d88 88b 888 "
-Y888   , 888     888     888 888 Y888 888P 888 888  888   888   , 888
- "88,e8' 888     888     888 888  "88 88"  888 888  888    "YeeP" 888
+  ___ _ __| |_| | | |_   _ _ __ | |_ ___ _ __
 
+ / __| '__| __| |_| | | | | '_ \| __/ _ \ '__|
 
+| (__| |  | |_|  _  | |_| | | | | ||  __/ |
 
-
-Y8b Y88888P     d88       d88
- Y8b Y888P     d888      d888
-  Y8b Y8P     d"888     d"888
-   Y8b Y        888 d8b   888
-    Y8P         888 Y8P   888
+ \___|_|   \__|_| |_|\__,_|_| |_|\__\___|_|
 
 
-               Coded by Hazem Elsayed
-               GitHub Link : https://github.com/zoma0x00/crtFinder
-                LinkedIn:https://www.linkedin.com/in/zoma0x00
-                YouTube:https://www.youtube.com/zoma0x00
+              Coded by Hazem Elsayed
+              GitHub Link : https://github.com/zoma0x00/crtFinder
+              LinkedIn:https://www.linkedin.com/in/zoma0x00
+              YouTube:https://www.youtube.com/zoma0x00
 '''
 print ("/n Coded by Hazem Elsayed ")
 
