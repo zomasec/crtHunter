@@ -32,7 +32,7 @@ python crt.py -d DOMAIN [-o OUTPUT_FILE]
 
 ```bash
 
-python crt.py -d example.com -o subdomains.txt
+python crtFinder.py -d example.com -o subdomains.txt
 
 ```
 
