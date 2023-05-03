@@ -1,4 +1,4 @@
-# crtFinder
+# crtFinder V1.0
 
 A Python script to extract subdomains for a given domain using the crt.sh website. This script utilizes `requests`, `BeautifulSoup`, `argparse`, and `colorama` libraries to fetch and parse the data and provide a user-friendly command-line interface with colored output.
 
