@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# coding: utf-8
+# crtHunter v2.0
+
+# By Hazem El-Sayed - twitter.com/zoma0x00
 # Import required libraries
 import re
 import requests
