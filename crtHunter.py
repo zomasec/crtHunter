@@ -42,11 +42,9 @@ def extract_subdomains(text, domain):
 def get_subdomains_crtsh(domain):
     subdomains = set()
     url = f"https://crt.sh/?q={domain}"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"}
 
     try:
-        response = requests.get(url, headers=headers)
+        response = requests.get(url)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         print(Fore.RED + f"Error: {str(e)}")
