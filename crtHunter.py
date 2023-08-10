@@ -25,8 +25,9 @@ BANNER = r'''
  \____|_|    \___|_|   |_|\____|_| |_|\___\____|_|    
                                                       
 
-               Coded by Hazem Elsayed
-               @Zoma0x00
+               Coded by : Hazem Elsayed
+               Contributor : Yousef Mohamed
+               @zoma0x00 && @y0usSs3F
 '''
 
 # Function to extract subdomains using RegEx
