@@ -2,7 +2,7 @@
 # coding: utf-8
 # crtHunter v2.0
 
-# By Hazem El-Sayed - twitter.com/zoma0x00
+# By Hazem El-Sayed - twitter.com/algohazm
 # Import required libraries
 import re
 import requests
@@ -27,7 +27,7 @@ BANNER = r'''
 
                Coded by : Hazem Elsayed
                Contributor : Yousef Mohamed
-               @zoma0x00 && @y0usSs3F
+               @algohazm && @y0usSs3F
 '''
 
 # Function to extract subdomains using RegEx
