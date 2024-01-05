@@ -27,7 +27,7 @@ BANNER = r'''
 
                Coded by : Hazem Elsayed
                Contributor : Yousef Mohamed
-               @ZomaSec && @y0usSs3F
+               @ZomaSec && @bug4you
 '''
 
 # Function to extract subdomains using RegEx
